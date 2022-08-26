@@ -1,0 +1,308 @@
+completion_time_mins 
+
+	Welch Two Sample t-test
+
+data:  dset[[c1name]] by dset[[c2name]]
+t = 2.4052, df = 1726.7, p-value = 0.01627
+alternative hypothesis: true difference in means between group FALSE and group TRUE is not equal to 0
+95 percent confidence interval:
+ 0.1984046 1.9517646
+sample estimates:
+mean in group FALSE  mean in group TRUE 
+           13.67909            12.60400 
+
+
+docs_after_app 
+
+	Welch Two Sample t-test
+
+data:  dset[[c1name]] by dset[[c2name]]
+t = -1.0297, df = 1992.3, p-value = 0.3033
+alternative hypothesis: true difference in means between group FALSE and group TRUE is not equal to 0
+95 percent confidence interval:
+ -0.27557861  0.08583055
+sample estimates:
+mean in group FALSE  mean in group TRUE 
+          0.7123443           0.8072183 
+
+
+docs_with_app 
+
+	Welch Two Sample t-test
+
+data:  dset[[c1name]] by dset[[c2name]]
+t = -3.8894, df = 1924.3, p-value = 0.0001039
+alternative hypothesis: true difference in means between group FALSE and group TRUE is not equal to 0
+95 percent confidence interval:
+ -0.5774068 -0.1902965
+sample estimates:
+mean in group FALSE  mean in group TRUE 
+           1.122310            1.506162 
+
+
+time_diff_frommedian 
+
+	Welch Two Sample t-test
+
+data:  dset[[c1name]] by dset[[c2name]]
+t = -2.4052, df = 1726.7, p-value = 0.01627
+alternative hypothesis: true difference in means between group FALSE and group TRUE is not equal to 0
+95 percent confidence interval:
+ -1.9517646 -0.1984046
+sample estimates:
+mean in group FALSE  mean in group TRUE 
+          -3.296700           -2.221615 
+
+
+household_size 
+
+	Welch Two Sample t-test
+
+data:  dset[[c1name]] by dset[[c2name]]
+t = 5.9919, df = 1735.2, p-value = 2.516e-09
+alternative hypothesis: true difference in means between group FALSE and group TRUE is not equal to 0
+95 percent confidence interval:
+ 0.2352661 0.4642316
+sample estimates:
+mean in group FALSE  mean in group TRUE 
+           2.034052            1.684303 
+
+
+income 
+
+	Welch Two Sample t-test
+
+data:  dset[[c1name]] by dset[[c2name]]
+t = 15.948, df = 1424.5, p-value < 2.2e-16
+alternative hypothesis: true difference in means between group FALSE and group TRUE is not equal to 0
+95 percent confidence interval:
+ 760.0572 973.2616
+sample estimates:
+mean in group FALSE  mean in group TRUE 
+          1420.7157            554.0563 
+
+
+had_interview 
+
+	Welch Two Sample t-test
+
+data:  dset[[c1name]] by dset[[c2name]]
+t = -7.3114, df = 756.57, p-value = 6.74e-13
+alternative hypothesis: true difference in means between group FALSE and group TRUE is not equal to 0
+95 percent confidence interval:
+ -0.2938464 -0.1694514
+sample estimates:
+mean in group FALSE  mean in group TRUE 
+          0.4308511           0.6625000 
+
+
+pct_docs_with_app 
+
+	Welch Two Sample t-test
+
+data:  dset[[c1name]] by dset[[c2name]]
+t = -2.2904, df = 871.88, p-value = 0.02224
+alternative hypothesis: true difference in means between group FALSE and group TRUE is not equal to 0
+95 percent confidence interval:
+ -0.104266012 -0.008032894
+sample estimates:
+mean in group FALSE  mean in group TRUE 
+          0.6841513           0.7403007 
+
+
+total_caringfor 
+
+	Welch Two Sample t-test
+
+data:  dset[[c1name]] by dset[[c2name]]
+t = 4.4215, df = 1789.3, p-value = 1.039e-05
+alternative hypothesis: true difference in means between group FALSE and group TRUE is not equal to 0
+95 percent confidence interval:
+ 0.1122755 0.2912903
+sample estimates:
+mean in group FALSE  mean in group TRUE 
+          0.7502838           0.5485009 
+
+
+kid_proportion 
+
+	Welch Two Sample t-test
+
+data:  dset[[c1name]] by dset[[c2name]]
+t = 1.5868, df = 1806, p-value = 0.1127
+alternative hypothesis: true difference in means between group FALSE and group TRUE is not equal to 0
+95 percent confidence interval:
+ -0.005385859  0.051023032
+sample estimates:
+mean in group FALSE  mean in group TRUE 
+          0.1259932           0.1031746 
+
+
+under5mins 
+
+	Welch Two Sample t-test
+
+data:  dset[[c1name]] by dset[[c2name]]
+t = -0.83907, df = 1945, p-value = 0.4015
+alternative hypothesis: true difference in means between group FALSE and group TRUE is not equal to 0
+95 percent confidence interval:
+ -0.03300776  0.01322685
+sample estimates:
+mean in group FALSE  mean in group TRUE 
+         0.07021518          0.08010563 
+
+
+over20mins 
+
+	Welch Two Sample t-test
+
+data:  dset[[c1name]] by dset[[c2name]]
+t = 0.79907, df = 1861.9, p-value = 0.4244
+alternative hypothesis: true difference in means between group FALSE and group TRUE is not equal to 0
+95 percent confidence interval:
+ -0.01842854  0.04377029
+sample estimates:
+mean in group FALSE  mean in group TRUE 
+          0.1517554           0.1390845 
+
+
+stable_housing 
+
+	Welch Two Sample t-test
+
+data:  dset[[c1name]] by dset[[c2name]]
+t = 6.5752, df = 1939.4, p-value = 6.227e-11
+alternative hypothesis: true difference in means between group FALSE and group TRUE is not equal to 0
+95 percent confidence interval:
+ 0.1005382 0.1860050
+sample estimates:
+mean in group FALSE  mean in group TRUE 
+          0.6591166           0.5158451 
+
+
+total_docs 
+
+	Welch Two Sample t-test
+
+data:  dset[[c1name]] by dset[[c2name]]
+t = -3.5385, df = 1960.5, p-value = 0.0004118
+alternative hypothesis: true difference in means between group FALSE and group TRUE is not equal to 0
+95 percent confidence interval:
+ -0.7440529 -0.2133984
+sample estimates:
+mean in group FALSE  mean in group TRUE 
+           1.834655            2.313380 
+
+
+unanswered 
+
+	Welch Two Sample t-test
+
+data:  dset[[c1name]] by dset[[c2name]]
+t = 6.1895, df = 1898.5, p-value = 7.376e-10
+alternative hypothesis: true difference in means between group FALSE and group TRUE is not equal to 0
+95 percent confidence interval:
+ 0.0939720 0.1811464
+sample estimates:
+mean in group FALSE  mean in group TRUE 
+          0.5741789           0.4366197 
+
+
+under18_n 
+
+	Welch Two Sample t-test
+
+data:  dset[[c1name]] by dset[[c2name]]
+t = 4.0043, df = 1760, p-value = 6.48e-05
+alternative hypothesis: true difference in means between group FALSE and group TRUE is not equal to 0
+95 percent confidence interval:
+ 0.09112396 0.26608996
+sample estimates:
+mean in group FALSE  mean in group TRUE 
+          0.6424518           0.4638448 
+
+
+over_59_n 
+
+	Welch Two Sample t-test
+
+data:  dset[[c1name]] by dset[[c2name]]
+t = 1.5423, df = 1769.3, p-value = 0.1232
+alternative hypothesis: true difference in means between group FALSE and group TRUE is not equal to 0
+95 percent confidence interval:
+ -0.006295637  0.052647486
+sample estimates:
+mean in group FALSE  mean in group TRUE 
+         0.10783201          0.08465608 
+
+
+income_caredfor 
+
+	Welch Two Sample t-test
+
+data:  dset[[c1name]] by dset[[c2name]]
+t = 10.33, df = 709.53, p-value < 2.2e-16
+alternative hypothesis: true difference in means between group FALSE and group TRUE is not equal to 0
+95 percent confidence interval:
+ 627.3477 921.7700
+sample estimates:
+mean in group FALSE  mean in group TRUE 
+          1460.5891            686.0303 
+
+
+income_percap 
+
+	Welch Two Sample t-test
+
+data:  dset[[c1name]] by dset[[c2name]]
+t = 14.377, df = 1514.8, p-value < 2.2e-16
+alternative hypothesis: true difference in means between group FALSE and group TRUE is not equal to 0
+95 percent confidence interval:
+ 366.0092 481.6622
+sample estimates:
+mean in group FALSE  mean in group TRUE 
+           754.6702            330.8345 
+
+
+income_perkid 
+
+	Welch Two Sample t-test
+
+data:  dset[[c1name]] by dset[[c2name]]
+t = 10.01, df = 531.97, p-value < 2.2e-16
+alternative hypothesis: true difference in means between group FALSE and group TRUE is not equal to 0
+95 percent confidence interval:
+ 665.0842 989.8503
+sample estimates:
+mean in group FALSE  mean in group TRUE 
+          1481.0719            653.6046 
+
+
+kids 
+
+	Welch Two Sample t-test
+
+data:  dset[[c1name]] by dset[[c2name]]
+t = 1.5868, df = 1806, p-value = 0.1127
+alternative hypothesis: true difference in means between group FALSE and group TRUE is not equal to 0
+95 percent confidence interval:
+ -0.005385859  0.051023032
+sample estimates:
+mean in group FALSE  mean in group TRUE 
+          0.1259932           0.1031746 
+
+
+any_docs 
+
+	Welch Two Sample t-test
+
+data:  dset[[c1name]] by dset[[c2name]]
+t = -8.7008, df = 1812.1, p-value < 2.2e-16
+alternative hypothesis: true difference in means between group FALSE and group TRUE is not equal to 0
+95 percent confidence interval:
+ -0.2309132 -0.1459610
+sample estimates:
+mean in group FALSE  mean in group TRUE 
+          0.5096263           0.6980634 
+
+
